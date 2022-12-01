@@ -1,0 +1,6 @@
+{
+    //configuration for clean output
+    "code-runner.clearPreviousOutput": true, 
+    "code-runner.showExecutionMessage": false,
+    // "editor.minimap.enabled":false
+}
